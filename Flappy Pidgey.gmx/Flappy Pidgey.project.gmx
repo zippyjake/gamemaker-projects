@@ -16,6 +16,10 @@
     <sprite>sprites\sprite8</sprite>
     <sprite>sprites\sbutton2</sprite>
     <sprite>sprites\sbutton3</sprite>
+    <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\sFeather</sprite>
+    <sprite>sprites\sstrat</sprite>
+    <sprite>sprites\sgrass</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -30,13 +34,17 @@
     <object>objects\ottpidgey</object>
     <object>objects\opipe</object>
     <object>objects\obush</object>
-    <object>objects\object5</object>
+    <object>objects\osp</object>
     <object>objects\object7</object>
     <object>objects\oscore</object>
     <object>objects\otitle</object>
     <object>objects\obutton</object>
     <object>objects\obutton2</object>
     <object>objects\obutton3</object>
+    <object>objects\object12</object>
+    <object>objects\oFeather</object>
+    <object>objects\ostart</object>
+    <object>objects\ograss</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
