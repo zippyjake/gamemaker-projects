@@ -54,9 +54,6 @@
     <instance objName="oPidgey" x="64" y="416" name="inst_EECD4A88" locked="0" code="" scaleX="1.56666672229767" scaleY="1.64285719394684" colour="4294967295" rotation="0"/>
     <instance objName="osp" x="800" y="96" name="inst_7BA17577" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oscore" x="288" y="64" name="inst_31F35959" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="ograss" x="32" y="768" name="inst_3DEE9E4E" locked="0" code="" scaleX="4.5" scaleY="3.5" colour="4294967295" rotation="0"/>
-    <instance objName="ograss" x="96" y="704" name="inst_AF4B23A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="ograss" x="96" y="768" name="inst_2196C5E0" locked="0" code="" scaleX="3.86666655540466" scaleY="3.5151515007019" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

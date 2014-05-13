@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound3</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sPidgeye</sprite>
     <sprite>sprites\sPidgey</sprite>
