@@ -22,6 +22,7 @@
     <sprite>sprites\sFeather</sprite>
     <sprite>sprites\sstrat</sprite>
     <sprite>sprites\sgrass</sprite>
+    <sprite>sprites\scre</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -47,6 +48,8 @@
     <object>objects\oFeather</object>
     <object>objects\ostart</object>
     <object>objects\ograss</object>
+    <object>objects\ocre</object>
+    <object>objects\ocon</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
