@@ -23,6 +23,7 @@
     <sprite>sprites\sstrat</sprite>
     <sprite>sprites\sgrass</sprite>
     <sprite>sprites\scre</sprite>
+    <sprite>sprites\sicon</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>

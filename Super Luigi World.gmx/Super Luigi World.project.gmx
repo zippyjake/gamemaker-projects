@@ -7,13 +7,15 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sLuigi</sprite>
-    <sprite>sprites\smr_l</sprite>
+    <sprite>sprites\smario</sprite>
+    <sprite>sprites\sPikachu</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\oLuigi</object>
-    <object>objects\omr_l</object>
+    <object>objects\omario</object>
+    <object>objects\oPikachu</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
