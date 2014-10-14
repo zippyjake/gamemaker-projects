@@ -2,7 +2,7 @@
 <sound>
   <kind>3</kind>
   <extension>.wma</extension>
-  <origname>C:\Users\JakeSeeber\Desktop\Super Mario- History 1985-2010\12 Small Mario Jump [From Super Mario Bros.].wma</origname>
+  <origname>sound\audio\sound2.wma</origname>
   <effects>0</effects>
   <volume>
     <volume>1</volume>
@@ -18,7 +18,7 @@
     <type>0</type>
   </types>
   <bitDepths>
-    <bitDepth>16</bitDepth>
+    <bitDepth>8</bitDepth>
   </bitDepths>
   <preload>-1</preload>
   <data>sound2.wma</data>
